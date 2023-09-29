@@ -1,5 +1,5 @@
 <?php
-// Arthur Vartanian     Herkansing      Art&Tech
+// Arthur Vartanian     Art&Tech
 $gebruikerid = filter_input(INPUT_COOKIE, "GebruikerId");
 
 if(!isset($gebruikerid)){

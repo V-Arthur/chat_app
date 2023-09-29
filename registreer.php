@@ -1,5 +1,5 @@
 <?php
-// Arthur Vartanian     Herkansing      Art&Tech
+// Arthur Vartanian     Art&Tech
 $controleCookie = filter_input(INPUT_COOKIE, "GebruikerId");
 if(isset($controleCookie)){
     header("Location: index.php");

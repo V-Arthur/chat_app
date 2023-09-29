@@ -1,5 +1,5 @@
 <?php
-// Arthur Vartanian     Herkansing      Art&Tech
+// Arthur Vartanian     Art&Tech
 class indexData{
     var $id;
             

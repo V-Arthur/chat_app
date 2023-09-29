@@ -1,5 +1,5 @@
 <?php
-// Arthur Vartanian     Herkansing      Art&Tech
+// Arthur Vartanian     Art&Tech
 if(!isset($_POST["postcheck"])){
     header("Location: registreer.php");
 }

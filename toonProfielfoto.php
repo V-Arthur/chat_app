@@ -1,5 +1,5 @@
 <?php
-// Arthur Vartanian     Herkansing      Art&Tech
+// Arthur Vartanian     Art&Tech
 $id = $_GET['id'];
 // $mysqli = new mysqli("dt5.ehb.be", "BDEV018", "79463521", "BDEV018");
 $mysqli = new mysqli("localhost", "root", "", "socialenetwerksite");

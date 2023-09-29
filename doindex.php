@@ -1,5 +1,5 @@
 <?php
-// Arthur Vartanian     Herkansing      Art&Tech
+// Arthur Vartanian     Art&Tech
 header('Content-type: application/json');
 
 if (isset($_POST["postcheck"])) {
