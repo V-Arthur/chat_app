@@ -1,0 +1,27 @@
+#content{
+    margin: auto;
+    width: 500px;
+}
+
+#loginform{
+    margin-bottom: 10px;
+    background-color: #999999;
+}
+
+label{
+    display: inline-block;
+    width: 400px;
+    text-align: left;
+    margin-top: 15px;
+}
+
+input{
+    display: inline-block;
+    float: right;
+}
+
+#submit{
+    position: relative;
+    margin-top: 20px;
+    float: left;
+}

@@ -1,0 +1,53 @@
+#rechts{
+    float: right;
+    margin-right: 50px;
+}
+
+#berichten{
+    background-color: #999999;
+    width: 800px;
+    height: 700px;
+    overflow-y: scroll;
+    
+}
+
+.berichten{
+    background-color: #ffcc00;
+    word-wrap: break-word;
+    width: 650px;
+    margin-left: 25px;
+    padding: 5px;
+}
+
+#bericht{
+    width: 800px;
+    height: 75px;
+}
+
+#links{
+    margin-left: 50px;
+    float: left;
+}
+
+#gegevens{
+    width: 250px;
+    height: 692px;
+    background-color: #ccccff;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#verzenden{
+    padding: 5px;
+    width: 75px;
+}
+
+#profielfoto{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+#gebruikernaam{
+    display: inline-block;
+    margin-bottom: 10px;
+}

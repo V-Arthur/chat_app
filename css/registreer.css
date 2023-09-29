@@ -1,0 +1,41 @@
+#content{
+    margin: auto;
+    width: 500px;
+}
+
+#registreerform{
+    margin-bottom: 10px;
+    background-color: #999999;
+}
+
+label{
+    display: inline-block;
+    width: auto;
+    text-align: left;
+    margin-top: 15px;
+}
+
+input{
+    display: inline-block;
+    float: right;
+    margin-top: 11px;
+}
+
+#geslacht{
+    width: 400px;
+}
+
+.geslacht{
+    margin-top: 7px;
+    float: right;
+}
+
+#profielfoto{
+    width: 160px;
+}
+
+#submit{
+    position: relative;
+    margin-top: 20px;
+    float: left;
+}
